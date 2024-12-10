@@ -16,5 +16,5 @@ figuresTimeLine
   .to('.yellow', {backgroundColor: "red"}, "<")
   .to('.red', {x: 0, duration: 1} )
   .to('.green', {x: "100%", duration: 1}, "<" )
-  .to('.blue', {x: "-100%", duration: 1}, "<" )
+  .to('.blue', {x: 0, duration: 1}, "<" )
   .to('.yellow', {x: "-100%", duration: 1}, "<" )
